@@ -12,4 +12,4 @@ Target women customers of age group (30-49 yrs) living in Maharasthra, Karnataka
 
 Report:
 
-(https://github.com/pranavkallem/Excel_Store_Analysis/blob/main/Report.PNG)
+![Screenshot](https://github.com/pranavkallem/Excel_Store_Analysis/blob/main/Report.PNG)
